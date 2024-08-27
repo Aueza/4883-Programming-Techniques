@@ -1,7 +1,10 @@
-## Ethan Saenz
-#### Repo: 3013 Algorithms
-#### Email: ethacs18@gmail.com
-#### Image:
+##  Assignments
 
-#### Avatar:
-<img src="https://thumbs2.imgbox.com/8a/f3/uY4pHrHV_t.jpeg" width="75">
+|   #   | Folder Link                 | Assignment Description             |
+| :---: | --------------------------- | ---------------------------------- |
+|   1   | [P01]()   | [Name]() |
+|   2   | [P02]()      | [Name]()  |
+
+
+
+
