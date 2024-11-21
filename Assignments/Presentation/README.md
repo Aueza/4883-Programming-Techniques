@@ -88,3 +88,5 @@ def jobScheduling(self, startTime: List[int], endTime:		           List[int], pr
    
 **Alternatives**: 
  - Priority Queue (Max Heap), Map, or Dictionary instead of sorting or binary search.
+## Example
+![Leetcode1235Example](https://github.com/user-attachments/assets/8ef41755-8c01-41a2-8c07-a4a144c09b09)
